@@ -1,0 +1,1 @@
+Cdm=[mean(reshape(CdCheetah10,9,5));mean(reshape(CdCheetah15,9,5));mean(reshape(CdCheetah20,9,5));mean(reshape(CdCheetah25,9,5));mean(reshape(CdCheetah30,9,5))]
