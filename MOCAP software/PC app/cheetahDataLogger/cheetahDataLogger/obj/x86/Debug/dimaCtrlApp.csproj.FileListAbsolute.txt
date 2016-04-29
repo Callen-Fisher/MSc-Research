@@ -1,0 +1,194 @@
+C:\Users\amir\Documents\Visual Studio 2010\Projects\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.pdb
+C:\Users\amir\Documents\Visual Studio 2010\Projects\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\amir\Documents\Visual Studio 2010\Projects\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\amir\Documents\Visual Studio 2010\Projects\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\amir\Documents\Visual Studio 2010\Projects\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\amir\Documents\Visual Studio 2010\Projects\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\amir\Documents\Visual Studio 2010\Projects\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.pdb
+C:\Users\amir\Documents\Visual Studio 2010\Projects\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.exe
+C:\Users\amir\Documents\Visual Studio 2010\Projects\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.exe
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.exe
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.pdb
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.exe
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.pdb
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.exe.manifest
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.application
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.exe.manifest
+C:\Documents and Settings\Smurf\My Documents\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.application
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.exe
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.pdb
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.exe.manifest
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.application
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.exe
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.pdb
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\ZedGraph.xml
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.csproj.GenerateResource.Cache
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.exe.manifest
+C:\Users\Justin\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.application
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.exe
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.pdb
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.exe.manifest
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.application
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.exe
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.pdb
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\ZedGraph.xml
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.exe.manifest
+C:\Users\amir\Dropbox\Amir_Project\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.application
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.exe
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.pdb
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.exe.manifest
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.application
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.exe
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.pdb
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\ZedGraph.xml
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.csproj.GenerateResource.Cache
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.exe.manifest
+C:\Users\Joseph Muziki\Desktop\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.application
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.exe
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.pdb
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.exe.manifest
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.application
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.exe
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\dimaCtrlApp.pdb
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\ZedGraph.xml
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.csproj.GenerateResource.Cache
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.exe.manifest
+C:\Users\Joseph Muziki\Desktop\Dima 2\dimaCtrlApp\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.application
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.exe
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.pdb
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\dimaCtrlApp.exe.manifest
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\dimaCtrlApp.application
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\dimaCtrlApp.exe
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\dimaCtrlApp.pdb
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\ZedGraph.xml
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.csprojResolveAssemblyReference.cache
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.csproj.GenerateResource.Cache
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.exe.manifest
+C:\Users\amir\Dropbox\dimaCtrlApp_JMv2.0\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.application
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\ZedGraph.xml
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.csprojResolveAssemblyReference.cache
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\obj\x86\Debug\dimaCtrlApp.csproj.GenerateResource.Cache
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\cheetahDataLogger.exe.manifest
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\cheetahDataLogger.application
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\cheetahDataLogger.exe
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\bin\Debug\cheetahDataLogger.pdb
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\obj\x86\Debug\cheetahDataLogger.exe.manifest
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\obj\x86\Debug\cheetahDataLogger.application
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\obj\x86\Debug\cheetahDataLogger.exe
+C:\Users\Callen Fisher\Desktop\dimaCtrlApp_JMv2.0\dimaCtrlApp\obj\x86\Debug\cheetahDataLogger.pdb
